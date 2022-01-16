@@ -1,2 +1,3 @@
-this is a readme fiel 
-this is the pythone ka chilla
+this is a readme file 
+this is the python ka chilla
+now the third line is added
